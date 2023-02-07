@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Sun Chi Noodle House"
+title                    : "Sun Jiao's Noodle House"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "(孙记面馆)"
+description              : &description ""
 url                      : https://www.sunjiao.net
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sun-jiao/sun-jiao.github.io"
