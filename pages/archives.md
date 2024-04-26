@@ -46,5 +46,4 @@ permalink: /archives/
 <a class="posts-list-name" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
 </li>
 {% endfor %}
-</ol>
 </section>
