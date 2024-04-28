@@ -3,7 +3,7 @@ layout: post
 title: 巴勒斯坦人与乌克兰战争
 categories: [Palestine, Ukraine]
 description: 巴勒斯坦人被指责为“亲俄”，只因他们厌恶西方的双重标准
-keywords: Flutter, 搜索, Dart
+keywords: 巴勒斯坦, 乌克兰, 俄乌战争
 ---
 
 本文原作者为加沙Ummah大学政治学系主任Adnan Abu Amer，原发表于半岛电视台：[_Where do Palestinians stand on the war in Ukraine?_](https://www.aljazeera.com/opinions/2022/12/19/are-palestinians-pro-russia
