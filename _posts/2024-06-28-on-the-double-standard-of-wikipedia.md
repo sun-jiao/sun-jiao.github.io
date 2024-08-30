@@ -18,7 +18,7 @@ keywords: 维基百科, 巴勒斯坦, 乌克兰
 
 我认为在俄罗斯吞并乌克兰领土这个问题上，更相似的或许应该是西姆拉条约，我们试作如下比较：
 
-*   辛亥革命后西藏 "西藏 (1912年－1951年)")事实上不受北洋政府管控 - 2014年后顿巴斯事实上不受基辅管控
+*   辛亥革命后西藏事实上不受北洋政府管控 - 2014年后顿巴斯事实上不受基辅管控
 *   北洋和国际社会都不承认西藏是独立国家 - 基辅和国际社会都不承认卢、顿两共和国是独立国家
 *   西藏噶厦政权对英属印度割让领土 - 卢、顿两共和国对俄罗斯割让领土
 *   英属印度吞并藏南未经北洋政府承认 - 俄罗斯吞并顿巴斯未经乌克兰政府承认
@@ -47,7 +47,7 @@ keywords: 维基百科, 巴勒斯坦, 乌克兰
 
 那你维呢？把美军杀死日本平民称为“屠杀”就是所谓“原创研究”、“不合理的比重”，把哈马斯杀死以色列平民称为“屠杀”难道就是公平公正、有据可查了？这种可笑的双重标准显示出你维已经彻底变成了美帝国当局和犹太资本的传声筒。
 
-我引用加沙Ummah大学政治学系主任Adnan Abu Amer在他的文章_Where do Palestinians stand on the war in Ukraine?_中振聋发聩的话语：“**西方必须明白，有偏见地、选择性地适用国际法和反战行动只会进一步地鼓舞侵略者。**”（_The West must understand that biased, selective application of international law and anti-war action only further encourage aggressors to commit violations._）
+我引用加沙Ummah大学政治学系主任Adnan Abu Amer在他的文章 *Where do Palestinians stand on the war in Ukraine?* 中振聋发聩的话语：“**西方必须明白，有偏见地、选择性地适用国际法和反战行动只会进一步地鼓舞侵略者。**”（ *The West must understand that biased, selective application of international law and anti-war action only further encourage aggressors to commit violations.* ）
 
 ## 对双重标准的双重标准
 
