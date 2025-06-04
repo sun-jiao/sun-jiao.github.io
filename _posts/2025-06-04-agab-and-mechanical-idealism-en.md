@@ -108,8 +108,7 @@ philosophical level.
 
 Under my definition, transgender is essentially about the ego feeling discomfort with and resisting externally
 imposed "social gendering" patterns. The resistance can manifest in myriad ways, from overt political activism 
-to deeply personal, internal acts of self-definition and emotional negotiation. It is the ongoing work of carving 
-out an authentic psychic space.
+to deeply personal, internal acts of self-definition and emotional negotiation.
 
 ASAB/AGAB itself is just a part of the "social gendering pattern." The source of
 oppression is an externally imposed, artificially constructed social norm, not the word written on a birth
@@ -117,10 +116,9 @@ certificate. This process is dynamic and diverse, rather than fixed and monolith
 
 Under this definition, being transgender is not a passive, objectively existing state, but an individual's
 non-conformity with and resistance to externally imposed rigid social norms, an active act of self-empowerment. 
-It begins with the internal refusal to accept imposed norms and a commitment to one's own experiential truth, 
-regardless of whether this leads to external action. It addresses the specificity of gender issues under the current 
-social construction and can attract broader support from those resisting oppression beyond gender issues by relying 
-on a narrative of resistance.
+It begins with the internal refusal to accept imposed norms, regardless of whether this leads to external action. 
+This definition mentions the specificity of gender issues under the current social construction and can attract broader 
+support from those resisting oppression beyond gender issues by relying on a narrative of resistance.
 
 However, this definition is too abstract and lacks operability in daily life. Nobody's social gendering
 pattern can be completely the same with others. And what constitutes "discomfort"? What constitutes "resistance"? It is
