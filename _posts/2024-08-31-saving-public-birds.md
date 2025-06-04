@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Save Public Birds | 拯救小鸟鸫鸫
-categories: [Wikipedia, Palestine, Ukraine]
+categories: [Biology, Bird]
 description: .
-keywords: 维基百科, 巴勒斯坦, 乌克兰
+keywords: 鸟类, 乌鸫, 观鸟
 ---
 
 其实我知道《拯救大兵瑞恩（_Saving Private Ryan_）》中，_private_ 是“列兵”的意思，和_public_完全不沾边。而且_Saving Public Bird_在英语中也完全不通，但我还是想强行玩这个梗。
