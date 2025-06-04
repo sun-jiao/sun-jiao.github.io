@@ -195,13 +195,5 @@ interdisciplinary cooperation and practical testing, and I will not make any irr
 
 ## Notes
 
-[^1]: The author uses "phenotypic sex (male/female)" instead of "biological sex" to refer to the so-called conventional
-concept "biological sex." Because the latter academically refers to the type of gametes in anisogamy, this 
-definition is for the gametes themselves, not the individuals. For gametes, this is a recognized and strictly 
-binary definition, and there is no third sex. And the vast majority of intersex people can at most produce gametes 
-of one sex.
-[^2]: Generally, doctors choose the sex that has complete reproductive function and can produce functional
-gametes—provided, of course, that the child is medically fertile. Otherwise, many intersex individuals cannot achieve
-complete reproductive function through medical treatment. Among humans, the vast majority of intersex individuals are
-either fertile in only one sex or are infertile, rather than producing two types of functional gametes, the latter
-being extremely rare in humans.
+[^1]: The author uses "phenotypic sex (male/female)" instead of "biological sex" to refer to the so-called conventional concept "biological sex." Because the latter academically refers to the type of gametes in anisogamy, this definition is for the gametes themselves, not the individuals. For gametes, this is a recognized and strictly binary definition, and there is no third sex. And the vast majority of intersex people can at most produce gametes of one sex.
+[^2]: Generally, doctors choose the sex that has complete reproductive function and can produce functional gametes—provided, of course, that the child is medically fertile. Otherwise, many intersex individuals cannot achieve complete reproductive function through medical treatment. Among humans, the vast majority of intersex individuals are either fertile in only one sex or are infertile, rather than producing two types of functional gametes, the latter being extremely rare in humans.
