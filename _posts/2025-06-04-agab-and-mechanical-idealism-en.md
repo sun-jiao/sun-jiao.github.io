@@ -140,11 +140,6 @@ female), 5tQ (5-alpha-reductase deficiency identifying as queer), etc. (Of cours
 and adjusted). At the same time, phenotypic sex also avoids the problem of "social gendering patterns" being too
 abstract and inoperable, thus being a good standard that combines accuracy, inclusivity, and operability.
 
-However, in practical application, we need to emphasize that this is a "usable" model. Its role is to generalize the
-patterns of an individual's social gendering, not to describe facts. The core of this model lies in revealing "how
-society genders based on phenotypic characteristics," thus directing critique towards this "phenotype-based
-socialization pattern" itself, rather than merely stopping at the label of "phenotypic sex."
-
 ### 3.2 All Formally Assigned Genders (AFAG)
 
 Another useful "model" is an extension of ASAB/AGAB, incorporating **all formally assigned genders**:
@@ -174,7 +169,7 @@ The expanded definition of phenotypic sex emphasizes the material reference poin
 an individual. Its advantage is the high inclusivity, accommodating any phenotypic sex, such as the many different types
 of intersex people we mentioned. Moreover, it points out that the social gendering process is mainly based on phenotypic
 characteristics, reminding us to reflect on this practice. The disadvantage is that it might be misinterpreted by some 
-as a degree of biological determinism if they deliberately ignore our emphasis that "this is just a model."
+as a degree of biological determinism if they deliberately ignore that "this is just a model."
 
 AFAB, All Formally Assigned Genders emphasizes that social gendering patterns are externally imposed and also highlights 
 the continuity of this process throughout an individual's life. However, its disadvantage is that it might be too 
