@@ -42,4 +42,10 @@ The student number is like "ab123456", and special characters in your password (
 
 Your username and password will be stored in plaintext in `/etc/cups/printers.conf`. However, this file can only be read by its owners (in my case, `root` and `cpus`), so the risk is relatively small for a personal computer. 
 
-If you cannot accept this risk, remove your username and password from the URL and use `smb://uorprint.rdg.ac.uk/FollowMe-BW`. Theoretically, in this case, you will be asked for your username and password when you create a print job. I'm not sure whether any desktop environment offers a "remember password" feature.  
+If you cannot accept this risk, remove your username and password from the URL and use `smb://uorprint.rdg.ac.uk/FollowMe-BW`. Theoretically, in this case, you will be asked for your username and password when you create a print job. I'm not sure whether any desktop environment offers a "remember password" feature. 
+
+## My credential is hardcoded but still being asked
+
+run this command in your console:
+
+`sudo lpadmin -p FollowMe-BW -o auth-info-required=none`
