@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use University of Reading's Printers on Linux
+title: How to connect Personal Linux device to the Managed Print Service (University of Reading)
 categories: [Linux, UoReading]
 description: Use University of Reading's Printers on Linux
 keywords: UoReading, Linux
