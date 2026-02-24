@@ -3,13 +3,23 @@
 }
 
 .markdown-body,body {
-    font-family: "LXGW WenKai","Noto Sans CJK SC","Hiragino Sans GB","冬青黑","Microsoft YaHei","微软雅黑",SimSun,"宋体",Helvetica,Tahoma,Arial,sans-serif;
+    font-family: "Noto Sans CJK SC","Hiragino Sans GB","冬青黑","Microsoft YaHei","微软雅黑",SimSun,"宋体",Helvetica,Tahoma,Arial,sans-serif;
     font-size: 16px;
     line-height: 1.6;
     word-wrap: break-word;
     -webkit-tap-highlight-color: transparent;
     -webkit-font-smoothing: antialiased;
     -webkit-backface-visibility: hidden
+}
+
+/* 中文环境：保留您原本喜欢的霞鹜文楷等中文字体优先，保证全角引号（“”）和汉字排版美观 */
+body:lang(zh-CN), .markdown-body:lang(zh-CN) {
+    font-family: "Noto Sans CJK SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+}
+
+/* 英文环境：英文字体优先，保证英文原生的弯单引号（’）完美显示 */
+body:lang(en), .markdown-body:lang(en) {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 @font-face {

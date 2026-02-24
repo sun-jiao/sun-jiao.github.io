@@ -4,6 +4,7 @@ title: How to connect Personal Linux device to the Managed Print Service (Univer
 categories: [Linux, UoReading]
 description: Use University of Reading's Printers on Linux
 keywords: UoReading, Linux
+lang: en
 ---
 
 Here is a tutorial of using the University of Reading's FollowMe Printer on Linux.
@@ -25,7 +26,7 @@ Once `cups` and `samba` are configured properly, visit [`http://localhost:631`](
 
 1. Click `Administration` in the top bar. 
 2. Click `Add Printer` in the "Printer" section. 
-3. Choose ` Windows Printer via SAMBA`. 
+3. Choose `Windows Printer via SAMBA`. 
 4. Enter the following address in the `Connection` field:
 `smb://RDG-HOME/<your_student_number>:<your_password>@uorprint.rdg.ac.uk/FollowMe-BW`
 The student number is like "ab123456", and special characters in your password (if present) should be escaped following the [URL encoding rule](https://en.wikipedia.org/wiki/Percent-encoding#:~:text=Reserved%20characters%20after%20percent%2Dencoding). 

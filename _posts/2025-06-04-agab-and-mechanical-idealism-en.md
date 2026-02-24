@@ -4,6 +4,7 @@ title: The Lack of Inclusivity in "Assigned Sex/Gender at Birth" for Intersex Pe
 categories: [ Gender, Philosophy ]
 description: .
 keywords: Philosophy, Gender
+lang: en
 ---
 
 ## TL;DR.

@@ -4,6 +4,7 @@ title: On Wikipedia's Double Standards
 categories: [Wikipedia, Palestine, Ukraine]
 description: .
 keywords: 维基百科, 巴勒斯坦, 乌克兰
+lang: en
 ---
 
 This is a "user essay" I wrote on [my user page](https://en.wikipedia.org/wiki/User:Interaccoonale/On_Wikipedia's_Double_Standards) on Wikipedia.
