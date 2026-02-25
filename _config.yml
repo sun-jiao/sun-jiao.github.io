@@ -4,11 +4,11 @@
 baseurl:
 url: https://www.sunjiao.net
 date_format: "ordinal"
-title: 孙记脆面馆
-subtitle: "浣熊的个人博客"
-description: "浣熊的个人博客"
-keywords: 孙记脆面馆, 干脆面君小浣熊, Sun Jiao, Jiao Sun, sun-jiao, 孙娇 
-timezone: Asia/Shanghai
+title: "Sun Chi Noodle House"
+subtitle: "Jiao's Blog"
+description: "这里是不卖干脆面的孙记脆面馆，不允许用水清洗棉花糖。"
+keywords: 孙记脆面馆, 干脆面君小浣熊, Sun Chi Noodle House, Sun Jiao, Jiao Sun, sun-jiao, 孙娇 
+timezone: Europe/London
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2015
@@ -57,11 +57,11 @@ highlight_theme: magritte
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Sun Jiao
+author: Jiao Sun (孙娇)
 organization: 
 organization_url: 
 github_username: sun-jiao
-location: Wuhan, Hubei, China
+location: Reading, Berkshire, United Kingdom
 email: P.ozzy@outlook.com
 
 # ---------------- #
@@ -70,25 +70,25 @@ email: P.ozzy@outlook.com
 navs:
   -
     href: /
-    label: 首页
+    label: Home
 
   -
     href: /categories/
-    label: 分类
+    label: Categories
 
   -
     href: /archives/
-    label: 归档
+    label: Archives
     mobile-hidden: true
 
   -
     href: /links/
-    label: 链接
+    label: Links
     mobile-hidden: true
 
   -
     href: /about/
-    label: 关于
+    label: About
 
 # ---------------- #
 #       RSS        #

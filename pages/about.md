@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 关于
+title: About
 description: 
-keywords: Sun Jiao, 孙娇
+keywords: Sun Jiao, Jiao Sun, 孙娇
 comments: true
-menu: 关于
+menu: About
 permalink: /about/
 ---
 

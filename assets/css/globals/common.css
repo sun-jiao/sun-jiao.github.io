@@ -1,10 +1,64 @@
+/* libertinus-sans-latin-400-normal */
+@font-face {
+  font-family: 'Libertinus Sans';
+  font-style: normal;
+  font-display: auto;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/libertinus-sans@latest/latin-400-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/libertinus-sans@latest/latin-400-normal.woff) format('woff');
+}
+
+/* libertinus-sans-latin-700-normal */
+@font-face {
+  font-family: 'Libertinus Sans';
+  font-style: normal;
+  font-display: auto;
+  font-weight: 700;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/libertinus-sans@latest/latin-700-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/libertinus-sans@latest/latin-700-normal.woff) format('woff');
+}
+
+/* libertinus-sans-latin-400-italic */
+@font-face {
+  font-family: 'Libertinus Sans';
+  font-style: italic;
+  font-display: auto;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/libertinus-sans@latest/latin-400-italic.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/libertinus-sans@latest/latin-400-italic.woff) format('woff');
+}
+
+/* libertinus-sans-latin-700-italic */
+@font-face {
+  font-family: 'Libertinus Sans';
+  font-style: italic;
+  font-display: auto;
+  font-weight: 700;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/libertinus-sans@latest/latin-700-italic.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/libertinus-sans@latest/latin-700-italic.woff) format('woff');
+}
+
+/* libertinus-serif-latin-400-normal */
+@font-face {
+  font-family: 'Libertinus Serif';
+  font-style: normal;
+  font-display: auto;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/libertinus-serif@latest/latin-400-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/libertinus-serif@latest/latin-400-normal.woff) format('woff');
+}
+
+/* libertinus-serif-latin-600-normal */
+@font-face {
+  font-family: 'Libertinus Serif';
+  font-style: normal;
+  font-display: auto;
+  font-weight: 600;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/libertinus-serif@latest/latin-600-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/libertinus-serif@latest/latin-600-normal.woff) format('woff');
+}
+
 .site-header,.site-header-actions .select-menu {
     position: relative
 }
 
-.markdown-body,body {
-    font-family: "Noto Sans CJK SC","Hiragino Sans GB","冬青黑","Microsoft YaHei","微软雅黑",SimSun,"宋体",Helvetica,Tahoma,Arial,sans-serif;
-    font-size: 16px;
+body, .markdown-body {
+    font-family: "Libertinus Sans", "LXGW WenKai", "Noto Sans CJK SC", "PingFang SC", "Microsoft YaHei", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif, "LXGW WenKai";
+    font-size: 18px;
     line-height: 1.6;
     word-wrap: break-word;
     -webkit-tap-highlight-color: transparent;
@@ -12,14 +66,10 @@
     -webkit-backface-visibility: hidden
 }
 
-/* 中文环境：保留您原本喜欢的霞鹜文楷等中文字体优先，保证全角引号（“”）和汉字排版美观 */
-body:lang(zh-CN), .markdown-body:lang(zh-CN) {
-    font-family: "Noto Sans CJK SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-}
-
-/* 英文环境：英文字体优先，保证英文原生的弯单引号（’）完美显示 */
-body:lang(en), .markdown-body:lang(en) {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+h1, h2, h3, h4, h5, h6,
+.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6,
+.site-header h1 {
+    font-family: "Libertinus Serif", "LXGW WenKai", "Noto Serif", "Noto Serif CJK SC", "Songti SC", "SimSun", serif;
 }
 
 @font-face {
@@ -264,7 +314,7 @@ body:lang(en), .markdown-body:lang(en) {
     position: relative;
     margin-top: 1em;
     margin-bottom: 16px;
-    font-weight: 700;
+    font-weight: 600;
     line-height: 1.4
 }
 
@@ -289,7 +339,7 @@ body:lang(en), .markdown-body:lang(en) {
 }
 
 .markdown-body h1 {
-    font-size: 2.25em;
+    font-size: 1.5em;
     line-height: 1.2
 }
 
@@ -298,7 +348,7 @@ body:lang(en), .markdown-body:lang(en) {
 }
 
 .markdown-body h2 {
-    font-size: 1.75em;
+    font-size: 1.3em;
     line-height: 1.225
 }
 
@@ -307,7 +357,7 @@ body:lang(en), .markdown-body:lang(en) {
 }
 
 .markdown-body h3 {
-    font-size: 1.5em;
+    font-size: 1.15em;
     line-height: 1.43
 }
 
@@ -316,7 +366,7 @@ body:lang(en), .markdown-body:lang(en) {
 }
 
 .markdown-body h4 {
-    font-size: 1.25em
+    font-size: 1.1em
 }
 
 .markdown-body h5 .anchor,.markdown-body h6 .anchor {
@@ -517,7 +567,7 @@ body:lang(en), .markdown-body:lang(en) {
 .markdown-body code,.markdown-body tt {
     padding: .2em 0;
     margin: 0;
-    font-size: 85%;
+    font-size: 80%;
     background-color: rgba(0,0,0,.04);
     /* border-radius: 3px */
 }

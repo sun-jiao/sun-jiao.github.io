@@ -1,10 +1,19 @@
 {% if page.copyright != false %}
 <div style="margin-top:2em;padding:0 1.5em;border:1px solid #d3d3d3;background-color:#deebf7">
-  <h3>文档信息</h3>
+  {% if page.lang == 'en' %}
+  <h3>Article Information</h3>
+  <ul>
+    <li>Author: <a href="{{ site.url }}" target="_blank">{{ site.author }}</a></li>
+    <li>Permalink: <a href="{{ site.url }}{{ page.url }}" target="_blank">{{ site.url }}{{ page.url }}</a></li>
+    <li>Copyright: Unless otherwise specified in the text, this work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.en" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</li>
+  </ul>
+  {% else %}
+  <h3>本文信息</h3>
   <ul>
     <li>本文作者：<a href="{{ site.url }}" target="_blank">{{ site.author }}</a></li>
     <li>本文链接：<a href="{{ site.url }}{{ page.url }}" target="_blank">{{ site.url }}{{ page.url }}</a></li>
     <li>版权声明：除正文中已指明的外，遵守<a href="http://creativecommons.org/licenses/by-sa/4.0/deed.zh" target="_blank">知识共享 署名-相同方式共享 4.0 许可证</a></li>
   </ul>
+  {% endif %}
 </div>
 {% endif %}

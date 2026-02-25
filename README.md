@@ -1,19 +1,15 @@
-# Sun Jiao's Blog
+# Jiao's Blog
 
 我的个人博客：<https://www.sunjiao.net>，Fork自“码志”。
 
-## 概览
+<!-- ## 概览
 
-<!-- vim-markdown-toc GFM -->
-
-* [效果预览](#效果预览)
-* [Fork 指南](#fork-指南)
-* [使用文档](#使用文档)
-* [经验与思考](#经验与思考)
-* [联系我](#联系我)
-* [致谢](#致谢)
-
-<!-- vim-markdown-toc -->
+- [Jiao's Blog](#jiaos-blog)
+  - [效果预览](#效果预览)
+  - [Fork 指南](#fork-指南)
+  - [使用文档](#使用文档)
+  - [联系我](#联系我)
+  - [致谢](#致谢)
 
 ## 效果预览
 
@@ -75,4 +71,4 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 [1]: https://github.com/sun-jiao/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
-[3]: https://github.com/sun-jiao/sun-jiao.github.io/issues/2
+[3]: https://github.com/sun-jiao/sun-jiao.github.io/issues/2 -->
