@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 拯救小鸟鸫鸫
-categories: [Biology, Bird]
+categories: [Bird]
 description: .
 keywords: 鸟类, 乌鸫, 观鸟
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Lack of Inclusivity in "Assigned Sex/Gender at Birth" for Intersex People, and a Philosophical Critique of its "Mechanistic Idealism"
-categories: [ Gender, Philosophy ]
+categories: [Gender, Philosophy]
 description: .
 keywords: Philosophy, Gender
 lang: en

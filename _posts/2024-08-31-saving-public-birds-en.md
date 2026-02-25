@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Save Public Birds
-categories: [Biology, Bird]
+categories: [Bird]
 description: .
 keywords: 鸟类, 乌鸫, 观鸟
 lang: en

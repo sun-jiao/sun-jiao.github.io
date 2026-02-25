@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 让你的Dart字符串搜索提速一倍，无需任何算法知识。
-categories: [Flutter, Dart]
+categories: [Development]
 description: 让你的Dart字符串搜索提速一倍
 keywords: Flutter, 搜索, Dart
 ---

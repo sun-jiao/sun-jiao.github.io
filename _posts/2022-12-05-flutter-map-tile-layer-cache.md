@@ -1,7 +1,7 @@
 ---
 layout: post
 title: flutter_map 瓦片图层本地缓存踩坑记。
-categories: [Flutter, Geo]
+categories: [Development]
 description: 为flutter_map实现瓦片图层缓存
 keywords: Flutter, 地图, 瓦片图层
 mermaid: false
